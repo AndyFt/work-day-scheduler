@@ -10,7 +10,7 @@
 
 ## Description
 
-This interactive Friends quiz challenges players to answer 5 multiple-choice questions in 60 seconds, utilizing JavaScript and HTML/CSS. Scores are calculated based on accuracy and remaining time, with an optional high score list powered by local storage. Adaptable and extensible, the project offers a fun and engaging test of Friends fandom.
+Single-page web application (SPA) built with HTML, CSS, and JavaScript powered by jQuery for dynamic content updates, ensuring a seamless user experience. The interface automatically updates to reflect past, present, and future hours, utilizing color-coding for visual clarity. This robust browser-based application grants instant access to your schedule, wherever you go.
 
 ## Deployment
 
@@ -18,10 +18,8 @@ This interactive Friends quiz challenges players to answer 5 multiple-choice que
 
 ## Usage
 
-The user will be able to click on one of the four answers, which will show if it was right or wrong. It's also possible to save your scores and check the high scores list. </br>
-![questions page - friends quiz application](https://github.com/AndyFt/andrea-fontana-friends-quiz/blob/main/assets/images/questions-page.png)
-![saving-score-page - friends quiz application](https://github.com/AndyFt/andrea-fontana-friends-quiz/blob/main/assets/images/saving-score-page.png)
-![highscores-page - friends quiz application](https://github.com/AndyFt/andrea-fontana-friends-quiz/blob/main/assets/images/highscores-page.png)
+The user can add an event to the calendar and save it. You may refresh the page, and the info will still be there. </br>
+![work-day-scheduler application](https://github.com/AndyFt/andrea-fontana-friends-quiz/blob/main/assets/images/questions-page.png)
 
 ## Credits
 
@@ -31,8 +29,6 @@ The user will be able to click on one of the four answers, which will show if it
 - Stack Overflow</br>
 - Shecodes.io</br>
 - Freecodecamp.org</br>
-- James Q Quick YouTube video - Build a Quiz App (8) - Save High Scores in Local Storage</br>
-- GreatStack YouTube video - How To Make Quiz App Using JavaScript | Build Quiz App With HTML CSS & JavaScript</br>
 - Thanks to colleagues for their valuable contributions.
 
 ## License
