@@ -37,6 +37,6 @@ The user can add an event to the calendar and save it. You may refresh the page,
 MIT license
 
 ## Badges
-![badmath](https://img.shields.io/badge/HTML-25.4-blue)
-![badmath](https://img.shields.io/badge/JavaScript-61.9-orange)
-![badmath](https://img.shields.io/badge/CSS-12.7-green)
+![badmath](https://img.shields.io/badge/HTML-62.2-blue)
+![badmath](https://img.shields.io/badge/JavaScript-21.1-orange)
+![badmath](https://img.shields.io/badge/CSS-16.7-green)
