@@ -4,6 +4,11 @@ body {
   line-height: 1;
 }
 
+h2 {
+  font-size: 15px;
+  text-align: center;
+}
+
 .container {
   border: solid 5px rgb(255, 255, 255);
   border-radius: 5px;
