@@ -19,7 +19,8 @@ Single-page web application (SPA) built with HTML, CSS, and JavaScript powered b
 ## Usage
 
 The user can add an event to the calendar and save it. You may refresh the page, and the info will still be there. </br>
-![work-day-scheduler application](https://github.com/AndyFt/andrea-fontana-friends-quiz/blob/main/assets/images/questions-page.png)
+![work-day-scheduler application](https://github.com/AndyFt/work-day-scheduler/blob/main/assets/images/work-day-scheduler-screenshot.png)
+![work-day-scheduler application with event](https://github.com/AndyFt/work-day-scheduler/blob/main/assets/images/work-day-scheduler-screenshot-with-event.png)
 
 ## Credits
 
