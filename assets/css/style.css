@@ -28,11 +28,13 @@ textarea {
 
 header {
   text-align: center;
-  background-color: transparent;
+  background-color: white;
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
   padding: 50px;
+  position: sticky;
+  top: 0;
 }
 
 .description {
